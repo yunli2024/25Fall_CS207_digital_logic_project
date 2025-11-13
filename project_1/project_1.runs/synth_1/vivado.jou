@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed Oct 29 15:51:04 2025
+# Process ID: 2240
+# Current directory: D:/25fall_digital_logic/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log lab6_p4.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lab6_p4.tcl
+# Log file: D:/25fall_digital_logic/project_1/project_1.runs/synth_1/lab6_p4.vds
+# Journal file: D:/25fall_digital_logic/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source lab6_p4.tcl -notrace
